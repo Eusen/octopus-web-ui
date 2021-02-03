@@ -1,0 +1,12 @@
+{
+  "name": "octopus-web-ui",
+  "type": "vue",
+  "language": "ts",
+  "projects": [
+    {
+      "name": "main",
+      "root": "projects/main",
+      "port": 9621
+    }
+  ]
+}
