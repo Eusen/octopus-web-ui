@@ -6,7 +6,8 @@
     {
       "name": "main",
       "root": "projects/main",
-      "port": 9621
+      "port": 9621,
+      "outputDir": "docs"
     }
   ]
 }
